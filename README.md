@@ -40,10 +40,12 @@ Print the output(x matrix)
 
 Step 5:
 End of the Program.
+```
 
 ## Program:
-(i) To find the L and U matrix
 ```
+(i) To find the L and U matrix
+
 Program to find the L and U matrix.
 Developed by: D.Vinitha Naidu
 RegisterNumber: 22001203
@@ -57,8 +59,8 @@ print(U)
 
 ```
 (ii) To find the LU Decomposition of a matrix
-```
 
+```
 Program to find the LU Decomposition of a matrix.
 Developed by: D.Vinitha Naidu
 RegisterNumber: 220010203
