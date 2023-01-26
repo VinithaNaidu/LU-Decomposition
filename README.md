@@ -24,8 +24,10 @@ Print the result matrices (L and U Matrices).
 
 Step 5:
 End of the Program.
+```
 
 2. To Find X matrix with LU Decomposition
+```
 Step 1:
 Get the matrix from the user.
 
